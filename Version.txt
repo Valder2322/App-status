@@ -1,2 +1,7 @@
-1.1
-Link/https://www.mediafire.com/file/ho449mist9qd0yh/Refugio_Manhwas_%25284%2529.apk/file
+1.2
+Link/https://seulink.com/baixar
+
+mensagem/Bem-vindo à versão 1.2! Melhorias de estabilidade aplicadas.
+mensagem/Novos sites serão adicionados em breve!
+ModoManutencao/false
+ForcarFechar/false
