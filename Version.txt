@@ -1,7 +1,7 @@
-1.2
+1.3
 Link/https://seulink.com/baixar
 
-mensagem/Bem-vindo à versão 1.2! Melhorias de estabilidade aplicadas.
-mensagem/Novos sites serão adicionados em breve!
+mensagem/
+mensagem/
 ModoManutencao/false
 ForcarFechar/false
