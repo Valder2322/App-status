@@ -4,3 +4,10 @@ NomeDoBotao:Imperio
 Modo:0
 Imagem:https://i.imgur.com/K1K0xjP.png
 >Botao
+
+Botao<
+Site:Mangalivre.tv
+NomeDoBotao:Manga_Livre
+Modo:0
+Imagem:https://i.imgur.com/K1K0xjP.png
+>Botao
