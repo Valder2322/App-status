@@ -14,7 +14,7 @@ Imagem:https://i.imgur.com/K1K0xjP.png
 
 Botao<
 Site:flowermanga.net
-NomeDoBotao:Flower_manga
+NomeDoBotao:Flower_mangas
 Modo:0
 Imagem:https://i.imgur.com/K1K0xjP.png
 >Botao
