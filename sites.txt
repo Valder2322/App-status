@@ -11,3 +11,10 @@ NomeDoBotao:Manga_Livre
 Modo:0
 Imagem:https://i.imgur.com/K1K0xjP.png
 >Botao
+
+Botao<
+Site:flowermanga.net
+NomeDoBotao:Flower_manga
+Modo:0
+Imagem:https://i.imgur.com/K1K0xjP.png
+>Botao
