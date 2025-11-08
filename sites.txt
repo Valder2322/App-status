@@ -20,7 +20,7 @@ Imagem:https://i.imgur.com/K1K0xjP.png
 >Botao
 
 Botao<
-Site:remangas.net
+Site:https://remangas.net
 NomeDoBotao:Remangas
 Modo:1
 Imagem:https://i.imgur.com/K1K0xjP.png
