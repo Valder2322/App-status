@@ -21,7 +21,7 @@ Imagem:https://i.imgur.com/kbK0lhm.jpeg
 
 Botao<
 Site:https://remangas.net
-NomeDoBotao:Remangas
+NomeDoBotao:ReMangas
 Modo:0
 Imagem:blob:https://i.imgur.com/ZxY44Qc.png
 >Botao
