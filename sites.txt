@@ -23,5 +23,5 @@ Botao<
 Site:https://remangas.net
 NomeDoBotao:ReMangas
 Modo:0
-Imagem:blob:https://i.imgur.com/LwnG03P.png
+Imagem:https://i.imgur.com/LwnG03P.png
 >Botao
