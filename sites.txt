@@ -1,8 +1,8 @@
 Botao<
 Site:https://imperiodabritannia.com/
-NomeDoBotao:Imperio 
+NomeDoBotao:Imperio Britânia 
 Modo:0
-Imagem:https://i.imgur.com/K1K0xjP.png
+Imagem:https://i.imgur.com/EheZ83r.png
 >Botao
 
 Botao<
