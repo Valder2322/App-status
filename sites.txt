@@ -16,7 +16,7 @@ Botao<
 Site:flowermanga.net
 NomeDoBotao:Flower_mangas
 Modo:0
-Imagem:https://i.imgur.com/48A0u1U.png
+Imagem:https://i.imgur.com/jDkIBfu.png
 >Botao
 
 Botao<
