@@ -9,19 +9,19 @@ Botao<
 Site:Mangalivre.tv
 NomeDoBotao:Manga Livre
 Modo:0
-Imagem:https://i.imgur.com/5bh5Mo3.png
+Imagem:https://i.imgur.com/ngnFtsF.jpeg
 >Botao
 
 Botao<
 Site:flowermanga.net
 NomeDoBotao:Flower_mangas
 Modo:0
-Imagem:https://i.imgur.com/K1K0xjP.png
+Imagem:https://i.imgur.com/kbK0lhm.jpeg
 >Botao
 
 Botao<
 Site:https://remangas.net
 NomeDoBotao:Remangas
 Modo:0
-Imagem:https://i.imgur.com/K1K0xjP.png
+Imagem:blob:https://imgur.com/a02141e9-689c-4eeb-90ae-6de00aa336b3
 >Botao
