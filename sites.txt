@@ -7,9 +7,9 @@ Imagem:https://i.imgur.com/EheZ83r.png
 
 Botao<
 Site:Mangalivre.tv
-NomeDoBotao:Manga_Livre
+NomeDoBotao:Manga Livre
 Modo:0
-Imagem:https://i.imgur.com/K1K0xjP.png
+Imagem:https://i.imgur.com/5bh5Mo3.png
 >Botao
 
 Botao<
