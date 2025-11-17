@@ -2,7 +2,7 @@ Botao<
 Site:https://imperiodabritannia.com/
 NomeDoBotao:Imperio Britânia 
 Modo:0
-Imagem:https://i.imgur.com/vcOF8g2.png?versao=1
+Imagem:https://i.imgur.com/p4ndUKn.png?versao=2
 >Botao
 
 Botao<
