@@ -1,26 +1,29 @@
 Botao<
-id:meu-site-1
+Id:imperio-britania
 Site:https://imperiodabritannia.com/
-NomeDoBotao:Imperio Britânia 
+NomeDoBotao:Imperio Britânia
 Modo:0
 Imagem:https://i.imgur.com/p4ndUKn.png
 >Botao
 
 Botao<
-Site:Mangalivre.tv
+Id:mangalivre
+Site:https://mangalivre.tv
 NomeDoBotao:Manga Livre
 Modo:0
 Imagem:https://i.imgur.com/ngnFtsF.jpeg
 >Botao
 
 Botao<
-Site:flowermanga.net
+Id:flower-mangas
+Site:https://flowermanga.net
 NomeDoBotao:Flower_mangas
 Modo:0
 Imagem:https://i.imgur.com/712ulVa.png
 >Botao
 
 Botao<
+Id:remangas
 Site:https://remangas.net
 NomeDoBotao:ReMangas
 Modo:0
