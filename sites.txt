@@ -19,9 +19,4 @@ Modo:0
 Imagem:https://i.imgur.com/712ulVa.png
 >Botao
 
-Botao<
-Site:https://remangas.net
-NomeDoBotao:ReMangas
-Modo:0
-Imagem:https://i.imgur.com/48A0u1U.png
->Botao
+
