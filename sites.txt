@@ -2,7 +2,7 @@ Botao<
 Site:https://imperiodabritannia.com/
 NomeDoBotao:Imperio Britânia 
 Modo:0
-Imagem:https://i.imgur.com/p4ndUKn.png?versao=2
+Imagem:https://i.imgur.com/p4ndUKn.png
 >Botao
 
 Botao<
@@ -16,7 +16,7 @@ Botao<
 Site:flowermanga.net
 NomeDoBotao:Flower_mangas
 Modo:0
-Imagem:https://i.imgur.com/712ulVa.png?versao=2
+Imagem:https://i.imgur.com/712ulVa.png
 >Botao
 
 Botao<
