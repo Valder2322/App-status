@@ -5,3 +5,11 @@ Nome:Império da Britânia
 Imagem:https://i.imgur.com/LNleOgr.png
 CustomTabs:0
 </Botao>
+
+<Botao>
+Id:2
+Site:https://flowermanga.net
+Nome: Flower Mangas
+Imagem:https://i.imgur.com/tz4WqVe.png
+CustomTabs:1
+</Botao>
