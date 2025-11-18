@@ -11,5 +11,13 @@ Id:2
 Site:https://flowermanga.net
 Nome: Flower Mangas
 Imagem:https://i.imgur.com/tz4WqVe.png
-CustomTabs:1
+CustomTabs:0
+</Botao>
+
+<Botao>
+Id:3
+Site:https://seitacelestial.com
+Nome:Seita Celestial
+Imagem:https://i.imgur.com/xdKirPl.png
+CustomTabs:0
 </Botao>
