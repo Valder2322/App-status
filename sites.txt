@@ -1,0 +1,183 @@
+<Botao>
+Id:2
+Site:https://flowermanga.net
+Nome:Flower Mangas
+Imagem:
+CustomTabs:0
+</Botao>
+
+<Botao>
+Id:3
+Site:https://seitacelestial.com
+Nome:Seita Celestial
+Imagem:https://i.imgur.com/QlgsSpJ.png
+CustomTabs:0
+</Botao>
+
+<Botao>
+Id:4
+Site:https://mediocretoons.com/
+Nome:Mediocre Toons
+Imagem:
+CustomTabs:0
+</Botao>
+
+<Botao>
+Id:5
+Site:https://mangalivre.blog/
+Nome:Manga Livre
+Imagem:
+CustomTabs:0
+</Botao>
+
+<Botao>
+Id:6
+Site:https://lermangas.me/
+Nome:Ler Mangas
+Imagem:
+CustomTabs:0
+</Botao>
+
+<Botao>
+Id:7
+Site:https://mangaonline.app/
+Nome:Manga Online
+Imagem:
+CustomTabs:0
+</Botao>
+
+<Botao>
+Id:8
+Site:https://sussytoons.wtf/
+Nome:Sussy Toons
+Imagem:
+CustomTabs:0
+</Botao>
+
+<Botao>
+Id:9
+Site:https://yomu.com.br/
+Nome:Yomu
+Imagem:
+CustomTabs:1
+</Botao>
+
+<Botao>
+Id:10
+Site:https://tatakaescan.com
+Nome:Tatakae Scan
+Imagem:
+CustomTabs:0
+</Botao>
+
+<Botao>
+Id:11
+Site:https://limboscan.com.br
+Nome:Limbo Scan
+Imagem:
+CustomTabs:0
+</Botao>
+
+<Botao>
+Id:12
+Site:https://pointzerotoons.com/
+Nome:Point Zero Toons
+Imagem:
+CustomTabs:0
+</Botao>
+
+<Botao>
+Id:13
+Site:https://bato.to
+Nome:Bato.to
+Imagem:
+CustomTabs:0
+</Botao>
+
+<Botao>
+Id:14
+Site:https://rfdragonscan.com/
+Nome:RF Dragon Scan
+Imagem:
+CustomTabs:0
+</Botao>
+
+<Botao>
+Id:15
+Site:https://minitwoscan.com/
+Nome:Mini Two Scan
+Imagem:
+CustomTabs:0
+</Botao>
+
+<Botao>
+Id:16
+Site:https://silencescan.com.br
+Nome:Silence Scan
+Imagem:
+CustomTabs:0
+</Botao>
+
+<Botao>
+Id:17
+Site:https://raiotoons.com/
+Nome:Raio Toons
+Imagem:
+CustomTabs:0
+</Botao>
+
+<Botao>
+Id:18
+Site:https://nexustoons.site/
+Nome:Nexus Toons
+Imagem:
+CustomTabs:0
+</Botao>
+
+<Botao>
+Id:19
+Site:https://argoscomic.com/
+Nome:Argos Comic
+Imagem:
+CustomTabs:0
+</Botao>
+
+<Botao>
+Id:20
+Site:https://fenixscan.xyz
+Nome:Fenix Scan
+Imagem:
+CustomTabs:0
+</Botao>
+
+<Botao>
+Id:21
+Site:https://hanmokkuscan.blogspot.com/
+Nome:Hanmokku Scan
+Imagem:
+CustomTabs:0
+</Botao>
+
+<Botao>
+Id:22
+Site:https://alonescanlator.com.br/
+Nome:Alone Scanlator
+Imagem:
+CustomTabs:0
+</Botao>
+
+<Botao>
+Id:23
+Site:https://apenasuma-fa.blogspot.com/?m=1
+Nome:Apenas Uma Fã
+Imagem:
+CustomTabs:0
+</Botao>
+
+<Botao>
+Id:24
+Site:https://montetaiscanlator.xyz/
+Nome:Montetai Scanlator
+Imagem:
+CustomTabs:0
+</Botao>
