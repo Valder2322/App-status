@@ -75,7 +75,7 @@ Id:10
 Site:https://tatakaescan.com
 Nome:Tatakae Scan
 Imagem:
-CustomTabs:0
+CustomTabs:1
 </Botao>
 
 <Botao>
