@@ -1,125 +1,92 @@
-Site<
-dominio=flowermanga.net
-minBarras=6
-regex=/manga/.*/capitulo-[0-9]+
->Site
+site:flowermanga.net
+permitir:/manga/
+permitir:/capitulo-
 
-Site<
-dominio=seitacelestial.com
-minBarras=6
-regex=/manga/.*/cap-[0-9]+
->Site
+site:seitacelestial.com
+permitir:/manga/
+permitir:/cap-
 
-Site<
-dominio=mediocretoons.com
-minBarras=3
-regex=/chapter/[0-9]+
->Site
+site:mediocretoons.com
+permitir:/chapter/
 
-Site<
-dominio=mangalivre.blog
-minBarras=4
-regex=/capitulo/.*
->Site
+site:mangalivre.blog
+permitir:/capitulo/
 
-Site<
-dominio=lermangas.me
-minBarras=6
-regex=/manga/.*/capitulo-[0-9]+
->Site
+site:lermangas.me
+permitir:/manga/
+permitir:/capitulo-
 
-Site<
-dominio=mangaonline.app
-minBarras=6
-regex=/manga/.*/capitulo-[0-9]+
->Site
+site:mangaonline.app
+permitir:/manga/
+permitir:/capitulo-
 
-Site<
-dominio=sussytoons.wtf
-minBarras=3
-regex=/capitulo/[0-9]+
->Site
+site:sussytoons.wtf
+permitir:/capitulo/
 
-Site<
-dominio=yomu.com.br
-minBarras=5
-regex=/ler/.*/capitulo-[0-9]+
->Site
+site:yomu.com.br
+permitir:/ler/
+permitir:/capitulo-
 
-Site<
-dominio=limboscan.com.br
-minBarras=5
-regex=/obras/.*/capitulo-[0-9]+
->Site
+site:limboscan.com.br
+permitir:/obras/
+permitir:/capitulo-
 
-Site<
-dominio=pointzerotoons.com
-minBarras=3
-regex=cap-[0-9]+
->Site
+site:pointzerotoons.com
+permitir:cap-
 
-Site<
-dominio=bato.to
-minBarras=3
-regex=/chapter/[0-9]+
->Site
+site:bato.to
+permitir:/chapter/
 
-Site<
-dominio=rfdragonscan.com
-minBarras=3
-regex=/[0-9]+/?$
->Site
+site:rfdragonscan.com
+permitir:/chapter/
+permitir:/0
+permitir:/1
+permitir:/2
+permitir:/3
+permitir:/4
+permitir:/5
+permitir:/6
+permitir:/7
+permitir:/8
+permitir:/9
 
-Site<
-dominio=minitwoscan.com
-minBarras=5
-regex=/manga/.*/[0-9]+
->Site
+site:minitwoscan.com
+permitir:/manga/
 
-Site<
-dominio=raiotoons.com
-minBarras=5
-regex=/series/.*/capitulo-[0-9]+
->Site
+site:raiotoons.com
+permitir:/series/
+permitir:/capitulo-
 
-Site<
-dominio=nexustoons.site
-minBarras=3
-regex=/leitor/.+
->Site
+site:nexustoons.site
+permitir:/leitor/
 
-Site<
-dominio=argoscomic.com
-minBarras=6
-regex=/capitulo/[0-9]+
->Site
+site:argoscomic.com
+permitir:/capitulo/
 
-Site<
-dominio=fenixscan.xyz
-minBarras=5
-regex=/obra/.*/[0-9]+(-[0-9]+)?
->Site
+site:fenixscan.xyz
+permitir:/obra/
+permitir:/capitulo
+permitir:/0
+permitir:/1
+permitir:/2
+permitir:/3
+permitir:/4
+permitir:/5
+permitir:/6
+permitir:/7
+permitir:/8
+permitir:/9
 
-Site<
-dominio=hanmokkuscan.blogspot.com
-minBarras=4
-regex=capitulo-[0-9]+
->Site
+site:hanmokkuscan.blogspot.com
+permitir:capitulo-
 
-Site<
-dominio=alonescanlator.com.br
-minBarras=5
-regex=/manga/.*/capitulo-[0-9]+(-[0-9]+)?
->Site
+site:alonescanlator.com.br
+permitir:/manga/
+permitir:/capitulo-
 
-Site<
-dominio=apenasuma-fa.blogspot.com
-minBarras=3
-regex=chapter-[0-9]+
->Site
+site:apenasuma-fa.blogspot.com
+permitir:chapter-
 
-Site<
-dominio=montetaiscanlator.xyz
-minBarras=5
-regex=/manga/.*/capitulo-[0-9]+
->Site
+site:montetaiscanlator.xyz
+permitir:/manga/
+permitir:/capitulo-
