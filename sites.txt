@@ -58,7 +58,7 @@ Botao<
 Id:10
 NomeDoBotao: Tatakae Scan
 Site:https://tatakaescan.com
-Modo:1
+Modo:0
 >Botao
 
 Botao<
